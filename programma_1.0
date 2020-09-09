@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="21.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qprogramma_1.0\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="programma_1.0">
+        <folder path="."/>
+    </projectTree>
+</project>
