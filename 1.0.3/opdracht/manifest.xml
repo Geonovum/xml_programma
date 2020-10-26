@@ -12,6 +12,15 @@
       <lvbb:bestandsnaam>manifest.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>GIO0042_detailhandelbuitenbestaandwinkelgebied.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <!-- GML -->
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>ib_aangewezen_oppervlaktewaterlichamen_rijnland.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
    <!-- afbeeldingen -->
    <lvbb:bestand>
       <lvbb:bestandsnaam>image_001.png</lvbb:bestandsnaam>

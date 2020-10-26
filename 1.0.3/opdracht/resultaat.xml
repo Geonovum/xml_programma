@@ -18,6 +18,9 @@
             <rechtsgebied>geen</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2020-03-10</bekendOp>
@@ -38,6 +41,13 @@
                <instrumentVersie>/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10</instrumentVersie>
                <eId/>
             </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</instrumentVersie>
+               <eId>!initieel_reg#div_o_1__content_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
@@ -93,7 +103,10 @@
                         </Kop>
                         <Inhoud>
                            <Tussenkop>Rijnland, waterbeheerder in West-Nederland</Tussenkop>
-                           <Al>Rijnland ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
+                           <Al><ExtIoRef 
+                              wId="ws0616_1__div_o_1__content_o_1__ref_o_1" 
+                              eId="div_o_1__content_o_1__ref_o_1" 
+                              ref="/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08">Rijnland</ExtIoRef> ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
                            <Tussenkop>WBP5: een nieuw waterbeheerplan voor de periode 2016-2021</Tussenkop>
                            <Al>Elke zes jaar leggen waterschappen het beleid en de aanpak die noodzakelijk zijn om de watertaken goed te kunnen uitvoeren, vast in een zogeheten waterbeheerplan. In het voorliggende vijfde waterbeheerplan (WBP5) geven we <IntRef  ref="div_2__div_2.1">richting aan het waterbeheer</IntRef> in de periode 2016 -2021. Dit in lijn met en in aanvulling op het coalitieakkoord (2015) waarin het nieuwe bestuur van Rijnland de koers voor de komende jaren heeft uitgezet.</Al>
                            <Kadertekst xmlns:eigen="eigen"
@@ -272,7 +285,7 @@
                               <Al>Het luisteren, betrekken en samenwerken met de omgeving is dan ook cruciaal voor het goed kunnen uitvoeren van onze waterschapstaken tegen zo laag mogelijke kosten. Om een betrouwbare en toegankelijke partner te zijn en de kennis en oplossingskracht van de omgeving te benutten doen we het volgende. Doelmatigheid, maatwerk, draagvlak en maatschappelijke meerwaarde staan daarbij voorop:</Al>
                               <Tussenkop>Wij werken van buiten naar binnen</Tussenkop>
                               <Al>Al vanaf de verkenningsfase stemmen we onze plannen af met de omgeving. We luisteren naar de meningen en ideeën van de omgeving, verplaatsen ons in hun belangen en stemmen vervolgens onze plannen en werkzaamheden hier zo goed als mogelijk op af. Wij zijn daarbij bereid een stap verder te gaan en de invulling en uitvoering van projecten samen op te pakken.</Al>
-                              <Tussenkop>We verbinden water met de maatschappelijke opgaven …</Tussenkop>---------------------------
+                              <Tussenkop>We verbinden water met de maatschappelijke opgaven …</Tussenkop>
                               <Al>Er is binnen het beheergebied van Rijnland een omvangrijke opgave op het gebied van wonen, werken, natuur en recreëren. Water maakt daar vaak deel vanuit. Provincies, gemeenten, waterschappen en marktpartijen hebben daarbij elk een eigen verantwoordelijkheid en belang. Samenwerking, vanuit de eigen taken en verantwoordelijkheden, is cruciaal om de verschillende opgaven te kunnen realiseren.<br/>Waar mogelijk koppelen we Rijnlandse opgaven dan ook aan opgaven van derden. We sluiten daarvoor aan bij (gebieds)ontwikkelingen van provincies, gemeenten of marktpartijen en nemen daar soms het voortouw in. Voorbeelden hiervan zijn de <ExtRef ref="/akn/nl/bill/gm0297/2019/3520" soort="AKN">wateragenda Zuid-Holland</ExtRef> waarin we samen met de provincie en waterschappen gewerkt hebben aan vraagstukken op het gebied van water en ruimtelijke ordening, de diverse ruimtelijke ontwikkelingen in de Haarlemmermeerpolder en hoe we met de gemeente Gouda aan de slag zijn met de klimaatbestendige stad.</Al>
                               <Tussenkop>… en maken daarvoor samen met onze partners gebiedsagenda’s</Tussenkop>
                               <Al>Om dit proces te stroomlijnen, stellen we samen met onze partners strategische agenda’s op waarin de Rijnlandse lange termijndoelen gekoppeld worden aan de agenda’s van onze partners. We staan daarbij open voor regionale allianties, zoals we die inmiddels hebben in bijvoorbeeld de waterketen, het muskusrattenbeheer en de belastingsamenwerking. Hierdoor opereren we effectiever en kunnen we de waterdoelen samen nog beter bereiken.</Al>

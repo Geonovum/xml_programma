@@ -12,6 +12,7 @@
       <objectType>Tekstdeel</objectType>
       <objectType>HoofdLijn</objectType>
       <objectType>Gebied</objectType>
+      <objectType>Gebiedengroep</objectType>
       <objectType>Regelingsgebied</objectType>
     </Bestand>
   </Aanlevering>
