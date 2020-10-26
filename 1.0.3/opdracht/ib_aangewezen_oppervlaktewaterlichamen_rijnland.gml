@@ -18,11 +18,11 @@
             <geo:Locatie>
                <geo:naam>Aarkanaal, Leidse Vaart en Drecht</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-7c6eb0ba-2eba-4c6f-a9a6-deadb0afb56d-xx">
-                     <basisgeo:id>7c6eb0ba-2eba-4c6f-a9a6-deadb0afb56d</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-e551e919-2eba-4c6f-a9a6-deadb0afb56d-xx">
+                     <basisgeo:id>e551e919-2eba-4c6f-a9a6-deadb0afb56d</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-7c6eb0ba-2eba-4c6f-a9a6-deadb0afb56d">
+                           gml:id="id-e551e919-2eba-4c6f-a9a6-deadb0afb56d">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -140,11 +140,11 @@
             <geo:Locatie>
                <geo:naam>Spaarne, Mooie Nel en Liede</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-363ef61f-d44f-433e-bf25-2595a1380a40-xx">
-                     <basisgeo:id>363ef61f-d44f-433e-bf25-2595a1380a40</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-7c6eb0ba-d44f-433e-bf25-2595a1380a40-xx">
+                     <basisgeo:id>7c6eb0ba-d44f-433e-bf25-2595a1380a40</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-363ef61f-d44f-433e-bf25-2595a1380a40">
+                           gml:id="id-7c6eb0ba-d44f-433e-bf25-2595a1380a40">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -216,11 +216,11 @@
             <geo:Locatie>
                <geo:naam>Oostelijk deel Ringvaart Haarlemmermeer</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-d1461311-fd73-4a73-8076-7ca8f9ba78a6-xx">
-                     <basisgeo:id>d1461311-fd73-4a73-8076-7ca8f9ba78a6</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-363ef61f-fd73-4a73-8076-7ca8f9ba78a6-xx">
+                     <basisgeo:id>363ef61f-fd73-4a73-8076-7ca8f9ba78a6</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-d1461311-fd73-4a73-8076-7ca8f9ba78a6">
+                           gml:id="id-363ef61f-fd73-4a73-8076-7ca8f9ba78a6">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -338,11 +338,11 @@
             <geo:Locatie>
                <geo:naam>Westelijk deel Ringvaart Haarlemmermeer</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-c4eb8c94-760e-42fe-b8ae-097e27841f5d-xx">
-                     <basisgeo:id>c4eb8c94-760e-42fe-b8ae-097e27841f5d</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-d1461311-760e-42fe-b8ae-097e27841f5d-xx">
+                     <basisgeo:id>d1461311-760e-42fe-b8ae-097e27841f5d</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-c4eb8c94-760e-42fe-b8ae-097e27841f5d">
+                           gml:id="id-d1461311-760e-42fe-b8ae-097e27841f5d">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -444,11 +444,11 @@
             <geo:Locatie>
                <geo:naam>Does en omliggende kanalen</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-f033377f-4c63-4227-a767-e2da9374f720-xx">
-                     <basisgeo:id>f033377f-4c63-4227-a767-e2da9374f720</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-c4eb8c94-4c63-4227-a767-e2da9374f720-xx">
+                     <basisgeo:id>c4eb8c94-4c63-4227-a767-e2da9374f720</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-f033377f-4c63-4227-a767-e2da9374f720">
+                           gml:id="id-c4eb8c94-4c63-4227-a767-e2da9374f720">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -510,11 +510,11 @@
             <geo:Locatie>
                <geo:naam>Gouwe en oostelijk deel Oude Rijn</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-4fb2330f-09cd-4682-b923-2b579de0a690-xx">
-                     <basisgeo:id>4fb2330f-09cd-4682-b923-2b579de0a690</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-f033377f-09cd-4682-b923-2b579de0a690-xx">
+                     <basisgeo:id>f033377f-09cd-4682-b923-2b579de0a690</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-4fb2330f-09cd-4682-b923-2b579de0a690">
+                           gml:id="id-f033377f-09cd-4682-b923-2b579de0a690">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -749,11 +749,11 @@
             <geo:Locatie>
                <geo:naam>Vliet, Rijn-Schiekanaal, Oude Rijn tot uitwatering Katwijk met uitzondering van de singels in Leiden en een gedeelte van de Haarlemmertrekvaart</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-91a23947-103e-4893-b817-4a06cd670314-xx">
-                     <basisgeo:id>91a23947-103e-4893-b817-4a06cd670314</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-4fb2330f-103e-4893-b817-4a06cd670314-xx">
+                     <basisgeo:id>4fb2330f-103e-4893-b817-4a06cd670314</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-91a23947-103e-4893-b817-4a06cd670314">
+                           gml:id="id-4fb2330f-103e-4893-b817-4a06cd670314">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -1300,11 +1300,11 @@
             <geo:Locatie>
                <geo:naam>Trekvaart systeem</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-4d36dcd0-34de-4dff-b40f-62cf0fc4aa43-xx">
-                     <basisgeo:id>4d36dcd0-34de-4dff-b40f-62cf0fc4aa43</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-91a23947-34de-4dff-b40f-62cf0fc4aa43-xx">
+                     <basisgeo:id>91a23947-34de-4dff-b40f-62cf0fc4aa43</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-4d36dcd0-34de-4dff-b40f-62cf0fc4aa43">
+                           gml:id="id-91a23947-34de-4dff-b40f-62cf0fc4aa43">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -1614,11 +1614,11 @@
             <geo:Locatie>
                <geo:naam>Noordelijk deel Ringvaart Haarlemmermeer</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-e551e919-f65e-4e19-ac5a-9429d4d6d597-xx">
-                     <basisgeo:id>e551e919-f65e-4e19-ac5a-9429d4d6d597</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-4d36dcd0-f65e-4e19-ac5a-9429d4d6d597-xx">
+                     <basisgeo:id>4d36dcd0-f65e-4e19-ac5a-9429d4d6d597</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
-                                          gml:id="id-e551e919-f65e-4e19-ac5a-9429d4d6d597">
+                           gml:id="id-4d36dcd0-f65e-4e19-ac5a-9429d4d6d597">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>

@@ -10,7 +10,7 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/waterschap/ws0616</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0616</maker>
-         <officieleTitel>Waterbeheerplan 2016-2021</officieleTitel>
+         <officieleTitel>Instelling waterbeheerprogramma 2016-2021</officieleTitel>
          <onderwerpen>
             <onderwerp>geen</onderwerp>
          </onderwerpen>
@@ -43,10 +43,10 @@
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland</doel>
+                  <doel>/join/id/proces/ws0616/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</instrumentVersie>
-               <eId>!initieel_reg#div_o_1__content_o_1__ref_o_1</eId>
+               <eId>cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
       </ConsolidatieInformatie>
@@ -103,10 +103,7 @@
                         </Kop>
                         <Inhoud>
                            <Tussenkop>Rijnland, waterbeheerder in West-Nederland</Tussenkop>
-                           <Al><ExtIoRef 
-                              wId="ws0616_1__div_o_1__content_o_1__ref_o_1" 
-                              eId="div_o_1__content_o_1__ref_o_1" 
-                              ref="/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08">Rijnland</ExtIoRef> ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
+                           <Al><IntIoRef wId="ws0616_1__div_o_1__content_o_1__ref_o_1" eId="div_o_1__content_o_1__ref_o_1" ref="ws0616_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Rijnland</IntIoRef> ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
                            <Tussenkop>WBP5: een nieuw waterbeheerplan voor de periode 2016-2021</Tussenkop>
                            <Al>Elke zes jaar leggen waterschappen het beleid en de aanpak die noodzakelijk zijn om de watertaken goed te kunnen uitvoeren, vast in een zogeheten waterbeheerplan. In het voorliggende vijfde waterbeheerplan (WBP5) geven we <IntRef  ref="div_2__div_2.1">richting aan het waterbeheer</IntRef> in de periode 2016 -2021. Dit in lijn met en in aanvulling op het coalitieakkoord (2015) waarin het nieuwe bestuur van Rijnland de koers voor de komende jaren heeft uitgezet.</Al>
                            <Kadertekst xmlns:eigen="eigen"
@@ -3887,6 +3884,29 @@
                </Lichaam>
             </RegelingVrijetekst>
          </WijzigBijlage>
+         <Bijlage eId="cmp_1" wId="ws0616_1__cmp_1">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>1</Nummer>
+            </Kop>
+            <Divisietekst eId="cmp_1__content_o_1" wId="ws0616_1__cmp_1__content_o_1">
+               <Inhoud>
+                  <Begrippenlijst eId="cmp_1__content_o_1__list_o_1" wId="ws0616_1__cmp_1__content_o_1__list_o_1">
+                     <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1" wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1">
+                        <Term>Aangewezen oppervlaktewaterlichamen Hoogheemraadschap van Rijnland</Term>
+                        <Definitie>
+                           <Al>
+                              <ExtIoRef 
+                                 wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1" 
+                                 eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1" 
+                                 ref="/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08">/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</ExtIoRef>
+                           </Al>
+                        </Definitie>
+                     </Begrip>
+                  </Begrippenlijst>
+               </Inhoud>
+            </Divisietekst>
+         </Bijlage>
       </BesluitCompact>
    </BesluitVersie>
    <RegelingVersieInformatie>
@@ -3902,7 +3922,7 @@
          <soortRegeling>geen</soortRegeling>
          <eindverantwoordelijke>/tooi/id/waterschap/ws0616</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0616</maker>
-         <officieleTitel>Waterbeheerplan 2016-2021</officieleTitel>
+         <officieleTitel>Instelling waterbeheerprogramma 2016-2021</officieleTitel>
          <alternatieveTitels>
             <alternatieveTitel>Waardevol water</alternatieveTitel>
          </alternatieveTitels>
