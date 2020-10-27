@@ -62,7 +62,7 @@
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
-                  <Opschrift>[optioneel opschrift]</Opschrift>
+                  <Opschrift>Artikel I</Opschrift>
                </Kop>
                <Wat>[omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage]</Wat>
             </WijzigArtikel>
@@ -70,7 +70,7 @@
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
-                  <Opschrift>[optioneel opschrift]</Opschrift>
+                  <Opschrift>Artikel II</Opschrift>
                </Kop>
                <Inhoud>
                   <Al>[artikel dat de inwerkingtreding vaststelt]</Al>
@@ -84,7 +84,7 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
-               <Opschrift>[optioneel opschrift]</Opschrift>
+               <Opschrift>Bijlage I</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
                                 wordt="/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10">
@@ -99,12 +99,12 @@
                      </Kop>
                      <Divisietekst eId="div_o_1__content_o_1" wId="ws0616_1__div_o_1__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                         <Kop>
-                           <Opschrift/>
+                           <Opschrift></Opschrift>
                         </Kop>
                         <Inhoud>
                            <Tussenkop>Rijnland, waterbeheerder in West-Nederland</Tussenkop>
-                           <Al><IntIoRef wId="ws0616_1__div_o_1__content_o_1__ref_o_1" eId="div_o_1__content_o_1__ref_o_1" ref="ws0616_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Rijnland</IntIoRef> ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
-                           <Tussenkop>WBP5: een nieuw waterbeheerplan voor de periode 2016-2021</Tussenkop>
+                           <Al><IntIoRef wId="ws0616_1__div_o_1__content_o_1__ref_o_1" eId="div_o_1__content_o_1__ref_o_1" ref="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Rijnland</IntIoRef> ligt midden in de Randstad. Grofweg in de vierhoek IJmuiden-Amsterdam West-Gouda-Wassenaar, met een totale oppervlakte van 1175 km<sup>2</sup>. Het is een prachtig afwisselend gebied: strand en duinen, de Bollenstreek, het Groene Hart, meren en plassen en de historische waterrijke steden Haarlem, Leiden en Gouda. Bovendien is er veel bedrijvigheid in dit deel van de Randstad: vanzelfsprekend in de steden maar ook op en rond de luchthaven Schiphol. Bovendien liggen in Rijnland drie belangrijke land- en tuinbouwgebieden: Boskoop, Aalsmeer en de Duin- en Bollenstreek. In dit gebied beheert Rijnland het water al sinds 1255.</Al>
+                           <Tussenkop>WBP5: een nieuw waterbeheerplan voor de periode 2016-2021</Tussenkop>                     
                            <Al>Elke zes jaar leggen waterschappen het beleid en de aanpak die noodzakelijk zijn om de watertaken goed te kunnen uitvoeren, vast in een zogeheten waterbeheerplan. In het voorliggende vijfde waterbeheerplan (WBP5) geven we <IntRef  ref="div_2__div_2.1">richting aan het waterbeheer</IntRef> in de periode 2016 -2021. Dit in lijn met en in aanvulling op het coalitieakkoord (2015) waarin het nieuwe bestuur van Rijnland de koers voor de komende jaren heeft uitgezet.</Al>
                            <Kadertekst xmlns:eigen="eigen"
                                        eId="div_o_1__content_o_1__recital_o_1"
@@ -209,7 +209,7 @@
                      </Kop>
                      <Divisietekst eId="div_1__content_o_1" wId="ws0616_1__div_1__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                         <Kop>
-                           <Opschrift/>
+                           <Opschrift></Opschrift>
                         </Kop>
                         <Inhoud>
                            <Tussenkop>Waar doen we het voor?</Tussenkop>
@@ -274,7 +274,7 @@
                         <Divisietekst eId="div_1__div_1.1__content_o_1"
                                       wId="ws0616_1__div_1__div_1.1__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                            <Kop>
-                              <Opschrift/>
+                              <Opschrift></Opschrift>
                            </Kop>
                            <Inhoud>
                               <Tussenkop>We benutten de kennis en creativiteit van inwoners en bedrijven</Tussenkop>
