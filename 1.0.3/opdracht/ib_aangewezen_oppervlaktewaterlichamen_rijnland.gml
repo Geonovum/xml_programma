@@ -7,7 +7,7 @@
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing></gio:achtergrondVerwijzing>
-         <gio:achtergrondActualiteit></gio:achtergrondActualiteit>
+         <gio:achtergrondActualiteit>2020-01-01</gio:achtergrondActualiteit>
       </gio:GeografischeContext>
    </geo:context>
    <geo:vastgesteldeVersie>
