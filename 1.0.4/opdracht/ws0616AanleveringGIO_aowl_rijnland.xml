@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
+<lvbba:AanleveringInformatieObject xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                                   xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                   schemaversie="1.0.4"
+                                   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+   <lvbba:InformatieObjectVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland</data:FRBRWork>
+         <data:FRBRExpression>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_010</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <!-- data:InformatieObjectVersieMetadata is verplicht en bevat de heeftBestanden -->
+      <data:InformatieObjectVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:heeftBestanden>
+            <data:heeftBestand>
+               <data:Bestand>
+                  <data:bestandsnaam>ib_aangewezen_oppervlaktewaterlichamen_rijnland.gml</data:bestandsnaam>
+                  <data:hash>9bb1c2a0e107e758656f2f11da2251a05333af3dcd7f89cf4d86c282937d874a20dcb6978ef950bacab91b082033bf1e097ad643ae21fe93dd883d5b11c73740</data:hash>
+               </data:Bestand>
+            </data:heeftBestand>
+         </data:heeftBestanden>
+         <!-- aangezien geboorteregeling aangeeft bij het intrekken van een regeling welke consolideerbare informatieobjejecten ook tegelijkertijd ingetrokken moeten worden, staat hier verwijzing naar AKN ID van Work Waterschapsverordening van betreffende BG. -->
+         <data:heeftGeboorteregeling>/akn/nl/act/ws0616/2020/waterschapsverordening</data:heeftGeboorteregeling>
+      </data:InformatieObjectVersieMetadata>
+      <data:InformatieObjectMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"><!-- data:naamInformatieObject is verplicht in 1.0.3  -->
+         <data:naamInformatieObject>Aangewezen oppervlaktewaterlichamen Hoogheemraadschap van Rijnland</data:naamInformatieObject>
+         <!-- moet de titel bevatten in mensleesbare vorm -->
+         <data:eindverantwoordelijke>/tooi/id/waterschap/ws0616</data:eindverantwoordelijke>
+         <data:formaatInformatieobject>/join/id/stop/informatieobject/gio_002</data:formaatInformatieobject>
+         <data:maker>/tooi/id/ministerie/mnre1034</data:maker>
+         <data:officieleTitel>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland</data:officieleTitel>
+         <!-- moet de join-id van de GIO bevatten (van het Work) -->
+         <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
+      </data:InformatieObjectMetadata>
+   </lvbba:InformatieObjectVersie>
+</lvbba:AanleveringInformatieObject>
