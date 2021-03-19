@@ -13,7 +13,7 @@
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>GIO0042_detailhandelbuitenbestaandwinkelgebied.xml</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>ws0616AanleveringGIO_aowl_rijnland.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <!-- GML -->
@@ -23,31 +23,48 @@
    </lvbb:bestand>
    <!-- afbeeldingen -->
    <lvbb:bestand>
-      <lvbb:bestandsnaam>image_001.png</lvbb:bestandsnaam>
-      <lvbb:contentType>application/png</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>image_002.jpeg</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>image1.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>application/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>image_003.jpeg</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>image2.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>application/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>image_004.png</lvbb:bestandsnaam>
-      <lvbb:contentType>application/png</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>image_005.jpeg</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>image3.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>application/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>image_006.jpeg</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>image4.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>application/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>image_007.jpeg</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>image5.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>application/jpeg</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>image6.jpeg</lvbb:bestandsnaam>
+      <lvbb:contentType>application/jpeg</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>image7.jpeg</lvbb:bestandsnaam>
+      <lvbb:contentType>application/jpeg</lvbb:contentType>
+   </lvbb:bestand>
+   <!--OW-bestanden-->
+   <bestand>
+      <bestandsnaam>manifest-ow.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owDivisie.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owLocatie.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
 </lvbb:manifest>

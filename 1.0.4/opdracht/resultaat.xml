@@ -41,17 +41,17 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/ws0616/2020/Instelling</doel>
+                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/ws0616/2020/Instelling</doel>
+                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</instrumentVersie>
-               <eId><!--Er is geen element ExtIoRef met dezelfde join.-->cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId><!--Er is geen element ExtIoRef met dezelfde join.-->!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
       </ConsolidatieInformatie>
@@ -2172,14 +2172,14 @@
                                      rowsep="1">
                                  <title>Bruto investeringsplanning</title>
                                  <tgroup cols="8" align="left">
-                                    <colspec colname="col1" colwidth="2377"/>
-                                    <colspec colname="col2" colwidth="792"/>
-                                    <colspec colname="col3" colwidth="793"/>
-                                    <colspec colname="col4" colwidth="793"/>
-                                    <colspec colname="col5" colwidth="793"/>
-                                    <colspec colname="col6" colwidth="793"/>
-                                    <colspec colname="col7" colwidth="793"/>
-                                    <colspec colname="col8" colwidth="793"/>
+                                    <colspec colname="col1" colwidth="2377*"/>
+                                    <colspec colname="col2" colwidth="792*"/>
+                                    <colspec colname="col3" colwidth="793*"/>
+                                    <colspec colname="col4" colwidth="793*"/>
+                                    <colspec colname="col5" colwidth="793*"/>
+                                    <colspec colname="col6" colwidth="793*"/>
+                                    <colspec colname="col7" colwidth="793*"/>
+                                    <colspec colname="col8" colwidth="793*"/>
                                     <thead valign="top">
                                        <row>
                                           <entry namest="col1" nameend="col1" align="left">
@@ -2418,14 +2418,14 @@
                                      rowsep="1">
                                  <title>Ontwikkeling exploitatielasten voor egalistie</title>
                                  <tgroup cols="8" align="left">
-                                    <colspec colname="col1" colwidth="2377"/>
-                                    <colspec colname="col2" colwidth="792"/>
-                                    <colspec colname="col3" colwidth="793"/>
-                                    <colspec colname="col4" colwidth="793"/>
-                                    <colspec colname="col5" colwidth="793"/>
-                                    <colspec colname="col6" colwidth="793"/>
-                                    <colspec colname="col7" colwidth="793"/>
-                                    <colspec colname="col8" colwidth="793"/>
+                                    <colspec colname="col1" colwidth="2377*"/>
+                                    <colspec colname="col2" colwidth="792*"/>
+                                    <colspec colname="col3" colwidth="793*"/>
+                                    <colspec colname="col4" colwidth="793*"/>
+                                    <colspec colname="col5" colwidth="793*"/>
+                                    <colspec colname="col6" colwidth="793*"/>
+                                    <colspec colname="col7" colwidth="793*"/>
+                                    <colspec colname="col8" colwidth="793*"/>
                                     <thead valign="top">
                                        <row>
                                           <entry namest="col1" nameend="col1" align="left">
@@ -2663,14 +2663,14 @@
                                      rowsep="1">
                                  <title>Ontwikkeling lastendruk en schuldenlast</title>
                                  <tgroup cols="8" align="left">
-                                    <colspec colname="col1" colwidth="2377"/>
-                                    <colspec colname="col2" colwidth="792"/>
-                                    <colspec colname="col3" colwidth="793"/>
-                                    <colspec colname="col4" colwidth="793"/>
-                                    <colspec colname="col5" colwidth="793"/>
-                                    <colspec colname="col6" colwidth="793"/>
-                                    <colspec colname="col7" colwidth="793"/>
-                                    <colspec colname="col8" colwidth="793"/>
+                                    <colspec colname="col1" colwidth="2377*"/>
+                                    <colspec colname="col2" colwidth="792*"/>
+                                    <colspec colname="col3" colwidth="793*"/>
+                                    <colspec colname="col4" colwidth="793*"/>
+                                    <colspec colname="col5" colwidth="793*"/>
+                                    <colspec colname="col6" colwidth="793*"/>
+                                    <colspec colname="col7" colwidth="793*"/>
+                                    <colspec colname="col8" colwidth="793*"/>
                                     <thead valign="top">
                                        <row>
                                           <entry namest="col1" nameend="col1" align="left">
@@ -3043,14 +3043,14 @@
                                      rowsep="1">
                                  <title>Ontwikkeling tarieven Rijnland</title>
                                  <tgroup cols="8" align="left">
-                                    <colspec colname="col1" colwidth="990"/>
-                                    <colspec colname="col2" colwidth="991"/>
-                                    <colspec colname="col3" colwidth="991"/>
-                                    <colspec colname="col4" colwidth="991"/>
-                                    <colspec colname="col5" colwidth="991"/>
-                                    <colspec colname="col6" colwidth="991"/>
-                                    <colspec colname="col7" colwidth="991"/>
-                                    <colspec colname="col8" colwidth="991"/>
+                                    <colspec colname="col1" colwidth="990*"/>
+                                    <colspec colname="col2" colwidth="991*"/>
+                                    <colspec colname="col3" colwidth="991*"/>
+                                    <colspec colname="col4" colwidth="991*"/>
+                                    <colspec colname="col5" colwidth="991*"/>
+                                    <colspec colname="col6" colwidth="991*"/>
+                                    <colspec colname="col7" colwidth="991*"/>
+                                    <colspec colname="col8" colwidth="991*"/>
                                     <thead valign="top">
                                        <row>
                                           <entry namest="col1" nameend="col1" morerows="1" align="left">
@@ -3282,14 +3282,14 @@
                                      rowsep="1">
                                  <title>Praktijksituaties Rijnland</title>
                                  <tgroup cols="8" align="left">
-                                    <colspec colname="col1" colwidth="990"/>
-                                    <colspec colname="col2" colwidth="991"/>
-                                    <colspec colname="col3" colwidth="991"/>
-                                    <colspec colname="col4" colwidth="991"/>
-                                    <colspec colname="col5" colwidth="991"/>
-                                    <colspec colname="col6" colwidth="991"/>
-                                    <colspec colname="col7" colwidth="991"/>
-                                    <colspec colname="col8" colwidth="991"/>
+                                    <colspec colname="col1" colwidth="990*"/>
+                                    <colspec colname="col2" colwidth="991*"/>
+                                    <colspec colname="col3" colwidth="991*"/>
+                                    <colspec colname="col4" colwidth="991*"/>
+                                    <colspec colname="col5" colwidth="991*"/>
+                                    <colspec colname="col6" colwidth="991*"/>
+                                    <colspec colname="col7" colwidth="991*"/>
+                                    <colspec colname="col8" colwidth="991*"/>
                                     <thead valign="top">
                                        <row>
                                           <entry namest="col1" nameend="col1" morerows="1" align="left">
