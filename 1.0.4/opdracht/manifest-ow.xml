@@ -10,7 +10,7 @@
          <naam>owDivisie.xml</naam>
          <objecttype>Divisie</objecttype>
          <objecttype>Tekstdeel</objecttype>
-         <objecttype>HoofdLijn</objecttype>
+         <objecttype>Hoofdlijn</objecttype>
       </Bestand>
       <Bestand>
          <naam>owLocatie.xml</naam>
@@ -21,5 +21,9 @@
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
-      </Aanlevering>
+      <Bestand>
+         <naam>owGebiedsaanwijzing.xml</naam>
+         <objecttype>Gebiedsaanwijzing</objecttype>
+      </Bestand>
+   </Aanlevering>
 </Aanleveringen>

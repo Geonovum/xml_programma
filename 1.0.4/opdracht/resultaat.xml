@@ -14,13 +14,13 @@
          <eindverantwoordelijke>/tooi/id/waterschap/ws0616</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0616</maker>
          <!--soortBestuursorgaan is onbekend. Waarde soortRegeling is '', soort bestuursorgaan is 'waterschap'.-->
-         <soortBestuursorgaan>onbekend</soortBestuursorgaan>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_5cc92c89</soortBestuursorgaan>
          <officieleTitel>[regelingopschrift van het besluit]</officieleTitel>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_849842ac</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
@@ -34,6 +34,10 @@
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
                <voltooidOp>2020-03-10</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-03-19</voltooidOp>
             </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
@@ -51,7 +55,7 @@
                   <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</instrumentVersie>
-               <eId><!--Er is geen element ExtIoRef met dezelfde join.-->!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
       </ConsolidatieInformatie>
@@ -1049,7 +1053,7 @@
                               <Opschrift> </Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Wij zijn de integrale beheerder van het oppervlaktewatersysteem in Rijnland. Daarnaast hebben we samen met gemeenten en provincies het beheer over het grondwater en een beperkte vaarwegtaak.</Al>
+                              <Al>Wij zijn de integrale beheerder van het <IntIoRef eId="div_4__div_4.3__content_o_1__ref_o_1" wId="ws0616_1__div_4__div_4.3__content_o_1__ref_o_1" ref="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">oppervlaktewatersysteem in Rijnland</IntIoRef>. Daarnaast hebben we samen met gemeenten en provincies het beheer over het grondwater en een beperkte vaarwegtaak.</Al>
                               <Tussenkop>Het watersysteem, hoe werkt dat?</Tussenkop>
                               <Lijst eId="div_4__div_4.3__content_o_1__list_o_1"
                                      wId="ws0616_1__div_4__div_4.3__content_o_1__list_o_1"
@@ -3928,11 +3932,11 @@
          <versienummer>1</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>geen</soortRegeling>
+         <soortRegeling>/join/id/stop/regelingtype_007</soortRegeling> <!--eigenlijk moet dit 010 zijn want dit is een programma, maar nu vermomd als projectbesluit ivm validatie-->
          <eindverantwoordelijke>/tooi/id/waterschap/ws0616</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0616</maker>
          <!--soortBestuursorgaan is onbekend. Waarde soortRegeling is '', soort bestuursorgaan is 'waterschap'.-->
-         <soortBestuursorgaan>onbekend</soortBestuursorgaan>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_5cc92c89</soortBestuursorgaan>
          <officieleTitel>Waterbeheerplan 2016-2021</officieleTitel>
          <alternatieveTitels>
             <alternatieveTitel>Waardevol water</alternatieveTitel>
@@ -3941,10 +3945,10 @@
             <overheidsdomein>/tooi/def/concept/c_a058394a</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_849842ac</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
       </RegelingMetadata>
    </RegelingVersieInformatie>
