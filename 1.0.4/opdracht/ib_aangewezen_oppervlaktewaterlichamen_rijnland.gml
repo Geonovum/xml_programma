@@ -8,8 +8,8 @@
                                      xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext>
-         <gio:achtergrondVerwijzing/>
-         <gio:achtergrondActualiteit/>
+         <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
+         <gio:achtergrondActualiteit>2019-01-01</gio:achtergrondActualiteit>
       </gio:GeografischeContext>
    </geo:context>
    <geo:vastgesteldeVersie>

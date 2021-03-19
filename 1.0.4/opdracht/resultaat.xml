@@ -55,7 +55,7 @@
                   <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
       </ConsolidatieInformatie>
@@ -73,7 +73,7 @@
                   <Nummer>I</Nummer>
                   <Opschrift>Artikel I</Opschrift>
                </Kop>
-               <Wat>[omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage]</Wat>
+               <Wat>Er wordt besloten dat het <IntRef ref="cmp_I" scope="WijzigBijlage">programma Rijnland</IntRef> wordt vastgesteld.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="ws0616_1__art_II">
                <Kop>
@@ -498,11 +498,11 @@
                               <Al>We maken het watersysteem toekomstbestendig waar dat nodig is. Hiervoor moeten we eenmalig grote werkzaamheden uitvoeren. Denk hierbij onder andere aan: uitbreiding bemaling, kadeverbeteringen, verdieping van watergangen, het aanleggen van natuurvriendelijke oevers en waterbergingen.</Al>
                               <Figuur eId="div_2__div_2.1__content_o_1__img_o_1"
                                       wId="ws0616_1__div_2__div_2.1__content_o_1__img_o_1">
-                                 <Illustratie naam="image1.png"
+                                 <Illustratie naam="image1.jpeg"
                                               breedte="814"
                                               hoogte="1023"
                                               uitlijning="start"
-                                              formaat="image/png"
+                                              formaat="image/jpeg"
                                               dpi="72"/>
                               </Figuur>
                            </Inhoud>
@@ -3894,32 +3894,32 @@
                      </Divisietekst>
                   </Divisie>
                </Lichaam>
+               <Bijlage eId="cmp_1" wId="ws0616_1__cmp_1">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>1</Nummer>
+                  </Kop>
+                  <Divisietekst eId="cmp_1__content_o_1" wId="ws0616_1__cmp_1__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_1__content_o_1__list_o_1"
+                           wId="ws0616_1__cmp_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
+                              wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1">
+                              <Term>Aangewezen oppervlaktewaterlichamen Hoogheemraadschap van Rijnland</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08">/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
             </RegelingVrijetekst>
          </WijzigBijlage>
-         <Bijlage eId="cmp_1" wId="ws0616_1__cmp_1">
-            <Kop>
-               <Label>Bijlage</Label>
-               <Nummer>1</Nummer>
-            </Kop>
-            <Divisietekst eId="cmp_1__content_o_1" wId="ws0616_1__cmp_1__content_o_1">
-               <Inhoud>
-                  <Begrippenlijst eId="cmp_1__content_o_1__list_o_1"
-                                  wId="ws0616_1__cmp_1__content_o_1__list_o_1">
-                     <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
-                             wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1">
-                        <Term>Aangewezen oppervlaktewaterlichamen Hoogheemraadschap van Rijnland</Term>
-                        <Definitie>
-                           <Al>
-                              <ExtIoRef wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                        eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                        ref="/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08">/join/id/regdata/ws0616/2020/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2020-09-08</ExtIoRef>
-                           </Al>
-                        </Definitie>
-                     </Begrip>
-                  </Begrippenlijst>
-               </Inhoud>
-            </Divisietekst>
-         </Bijlage>
       </BesluitCompact>
    </BesluitVersie>
    <RegelingVersieInformatie>
