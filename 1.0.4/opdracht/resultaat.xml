@@ -47,7 +47,7 @@
                <doelen>
                   <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling2</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/ws0616/2021/PR001/nld@2020-03-10</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/ws0616/2021/PR001/nld@2021-03-10</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -104,7 +104,7 @@
                <Opschrift>Bijlage I</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/ws0616/2021/PR001/nld@2020-03-10">
+                                wordt="/akn/nl/act/ws0616/2021/PR001/nld@2021-03-10">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Waterbeheerplan 2016-2021</Al>
                </RegelingOpschrift>
