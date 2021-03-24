@@ -6,8 +6,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/ws0616/2020/PR001</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/ws0616/2020/PR001/nld@2020-03-10</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/ws0616/2021/PR001</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/ws0616/2021/PR001/nld@2021-03-10</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -24,20 +24,20 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <bekendOp>2020-03-10</bekendOp>
-         <ontvangenOp>2020-03-10</ontvangenOp>
+         <bekendOp>2021-03-10</bekendOp>
+         <ontvangenOp>2021-03-10</ontvangenOp>
          <procedurestappen>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-               <voltooidOp>2020-03-10</voltooidOp>
+               <voltooidOp>2021-03-10</voltooidOp>
             </Procedurestap>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-               <voltooidOp>2021-03-19</voltooidOp>
+               <voltooidOp>2021-03-20</voltooidOp>
             </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
@@ -45,19 +45,27 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
+                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling2</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/ws0616/2021/PR001/nld@2020-03-10</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling</doel>
+                  <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling2</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24</instrumentVersie>
                <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/ws0616/2020/ProgrammaInstelling2</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-03-22</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
@@ -96,7 +104,7 @@
                <Opschrift>Bijlage I</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10">
+                                wordt="/akn/nl/act/ws0616/2021/PR001/nld@2020-03-10">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Waterbeheerplan 2016-2021</Al>
                </RegelingOpschrift>
@@ -3910,7 +3918,7 @@
                                  <Al>
                                     <ExtIoRef wId="ws0616_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                                        eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                       ref="/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22">/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22</ExtIoRef>
+                                       ref="/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24">/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -3924,8 +3932,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/ws0616/2020/PR001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/ws0616/2020/PR001/nld@2020-03-10</FRBRExpression>
+         <FRBRWork>/akn/nl/act/ws0616/2021/PR001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/ws0616/2021/PR001/nld@2021-03-10</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

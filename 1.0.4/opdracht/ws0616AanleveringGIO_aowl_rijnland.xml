@@ -8,7 +8,7 @@
    <lvbba:InformatieObjectVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland</data:FRBRWork>
-         <data:FRBRExpression>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22</data:FRBRExpression>
+         <data:FRBRExpression>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24</data:FRBRExpression>
          <data:soortWork>/join/id/stop/work_010</data:soortWork>
       </data:ExpressionIdentificatie>
       <!-- data:InformatieObjectVersieMetadata is verplicht en bevat de heeftBestanden -->

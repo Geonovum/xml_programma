@@ -15,7 +15,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-22</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland/nld@2021-03-24</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Aarkanaal, Leidse Vaart en Drecht</geo:naam>
