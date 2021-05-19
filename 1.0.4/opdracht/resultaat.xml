@@ -3941,7 +3941,7 @@
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_010</soortRegeling> <!--Programma--> 
-         <!--Als je nu wil aanleveren gebruik: /join/id/stop/regelingtype_010 voor projectbesluit, de validatie die dit blokkeert LVBB4007 wordt uitgezet.-->
+         <!--Als je nu wil aanleveren gebruik: /join/id/stop/regelingtype_007 voor projectbesluit, de validatie die dit blokkeert LVBB4007 wordt uitgezet.-->
          <eindverantwoordelijke>/tooi/id/waterschap/ws0616</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0616</maker>
          <!--soortBestuursorgaan is onbekend. Waarde soortRegeling is '', soort bestuursorgaan is 'waterschap'.-->
