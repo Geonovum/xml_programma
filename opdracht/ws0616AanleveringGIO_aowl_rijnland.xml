@@ -3,8 +3,8 @@
 <lvbba:AanleveringInformatieObject xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                    xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                   schemaversie="1.0.4"
-                                   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                                   schemaversie="1.1.0"
+                                   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <lvbba:InformatieObjectVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork>/join/id/regdata/ws0616/2021/ib_aangewezen_oppervlaktewaterlichamen_rijnland</data:FRBRWork>
@@ -17,7 +17,7 @@
             <data:heeftBestand>
                <data:Bestand>
                   <data:bestandsnaam>ib_aangewezen_oppervlaktewaterlichamen_rijnland.gml</data:bestandsnaam>
-                  <data:hash>8a347cfe821e8197b7adb308004892dfe34c641d56757305cdbaf3831253129924279ea6d44c64bd321c0867be8dd0c76931501ae79106ed07dab17fa415e826</data:hash>
+                  <data:hash>5d8ce50c691d2bb5e1d2f89d4a9b511f96d8fdb97a503be6af2f284520958bfce71408e26aaa5f2e7b932c00f433dbba8a3aa644c7cea8a3c259e6f34c9f0dfa</data:hash>
                </data:Bestand>
             </data:heeftBestand>
          </data:heeftBestanden>

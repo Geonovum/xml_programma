@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
-   xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-   xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-   xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
-   xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-   xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-   xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-   xmlns:p="http://www.geostandaarden.nl/imow/pons"
-   xmlns:r="http://www.geostandaarden.nl/imow/regels"
-   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
-   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Programma_001</sl:dataset>
       <sl:inhoud>
@@ -24,56 +24,56 @@
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
-   <ow-dc:owObject>
-      <ga:Gebiedsaanwijzing>
-         <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000001</ga:identificatie>
-         <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
-         <ga:naam>stroomgebied Rijn</ga:naam>
-         <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
-         <ga:locatieaanduiding>
-            <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
-         </ga:locatieaanduiding>
-      </ga:Gebiedsaanwijzing>
-   </ow-dc:owObject>
-</sl:stand>
-<sl:stand>
-   <ow-dc:owObject>
-      <ga:Gebiedsaanwijzing>
-         <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000002</ga:identificatie>
-         <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
-         <ga:naam>maaien watergang (maatregel)</ga:naam>
-         <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
-         <ga:locatieaanduiding>
-            <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
-         </ga:locatieaanduiding>
-      </ga:Gebiedsaanwijzing>
-   </ow-dc:owObject>
-</sl:stand>
-<sl:stand>
-   <ow-dc:owObject>
-      <ga:Gebiedsaanwijzing>
-         <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000003</ga:identificatie>
-         <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
-         <ga:naam>verhogen dijken (maatregel)</ga:naam>
-         <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterkering</ga:groep>
-         <ga:locatieaanduiding>
-            <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
-         </ga:locatieaanduiding>
-      </ga:Gebiedsaanwijzing>
-   </ow-dc:owObject>
-</sl:stand>
-<sl:stand>
-   <ow-dc:owObject>
-      <ga:Gebiedsaanwijzing>
-         <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000004</ga:identificatie>
-         <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
-         <ga:naam>voorlichting (maatregel)</ga:naam>
-         <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
-         <ga:locatieaanduiding>
-            <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
-         </ga:locatieaanduiding>
-      </ga:Gebiedsaanwijzing>
-   </ow-dc:owObject>
-</sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000001</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>stroomgebied Rijn</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000002</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>maaien watergang (maatregel)</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000003</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>verhogen dijken (maatregel)</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterkering</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-ws0616.gebiedsaanwijzing.2020000004</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
+               <ga:naam>voorlichting (maatregel)</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
