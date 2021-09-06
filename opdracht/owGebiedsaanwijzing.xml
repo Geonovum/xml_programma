@@ -31,7 +31,7 @@
                <ga:naam>stroomgebied Rijn</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
                <ga:locatieaanduiding>
-                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -44,7 +44,7 @@
                <ga:naam>maaien watergang (maatregel)</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
                <ga:locatieaanduiding>
-                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -57,7 +57,7 @@
                <ga:naam>verhogen dijken (maatregel)</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterkering</ga:groep>
                <ga:locatieaanduiding>
-                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -70,7 +70,7 @@
                <ga:naam>voorlichting (maatregel)</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
                <ga:locatieaanduiding>
-                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

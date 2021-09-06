@@ -69,7 +69,7 @@
                   <vt:HoofdlijnRef xlink:href="nl.imow-ws0616.hoofdlijn.2020000004"/>
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
-                  <l:GebiedRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0616.gebiedengroep.2020000001"/>
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
