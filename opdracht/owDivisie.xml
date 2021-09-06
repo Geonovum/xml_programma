@@ -59,7 +59,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000001</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteem</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000001"/>
                </vt:divisieaanduiding>
@@ -79,7 +79,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000002</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/procedures/id/concept/Procedures</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000002"/>
                </vt:divisieaanduiding>
@@ -90,7 +90,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000003</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/circulaireeconomie/id/concept/CirculaireEconomie</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CirculaireEconomie</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000003"/>
                </vt:divisieaanduiding>
@@ -101,7 +101,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000004</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteem</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersysteem</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000004"/>
                </vt:divisieaanduiding>
