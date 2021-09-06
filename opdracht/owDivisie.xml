@@ -23,6 +23,7 @@
             <sl:objectType>Divisie</sl:objectType>
             <sl:objectType>Divisietekst</sl:objectType>
             <sl:objectType>Tekstdeel</sl:objectType>
+            <sl:objectType>Hoofdlijn</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>

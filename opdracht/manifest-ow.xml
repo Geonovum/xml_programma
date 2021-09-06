@@ -11,6 +11,7 @@
          <objecttype>Divisie</objecttype>
          <objecttype>Divisietekst</objecttype>
          <objecttype>Tekstdeel</objecttype>
+         <objecttype>Hoofdlijn</objecttype>
       </Bestand>
       <Bestand>
          <naam>owLocatie.xml</naam>
