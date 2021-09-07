@@ -90,7 +90,6 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000003</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CirculaireEconomie</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000003"/>
                </vt:divisieaanduiding>
@@ -101,7 +100,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000004</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersysteem</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000004"/>
                </vt:divisieaanduiding>
