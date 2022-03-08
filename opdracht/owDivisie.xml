@@ -23,7 +23,6 @@
             <sl:objectType>Divisie</sl:objectType>
             <sl:objectType>Divisietekst</sl:objectType>
             <sl:objectType>Tekstdeel</sl:objectType>
-            <sl:objectType>Hoofdlijn</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -59,7 +58,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000001</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000001"/>
                </vt:divisieaanduiding>
@@ -79,7 +78,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000002</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000002"/>
                </vt:divisieaanduiding>
@@ -100,7 +99,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-ws0616.tekstdeel.2020000004</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-ws0616.divisie.2020000004"/>
                </vt:divisieaanduiding>
